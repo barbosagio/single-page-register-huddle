@@ -13,8 +13,8 @@ Os usuários devem ser capazes de:
 ![](assets/material/huddle-landing-final.jpg)
 
 ### Links
-- Solução URL: [Front-end mentor](FALTA)
-- Live Site URL: [Github pages](FALTA)
+- Solução URL: [Front-end mentor](https://www.frontendmentor.io/solutions/unique-page-with-display-grid-and-flex-lyLqECUeKp)
+- Live Site URL: [Github pages](https://barbosagio.github.io/single-page-register-huddle/)
 
 ## Meu processo
 ### Construção
