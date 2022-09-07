@@ -5,7 +5,7 @@ body {
     background: url(../images/bg-desktop.svg) no-repeat center center;
     background-size: cover;
     background-color: hsl(257, 40%, 49%);
-    height: 100vh;
+    height: 100%;
 }
 
 header .logo {
