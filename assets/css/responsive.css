@@ -32,11 +32,11 @@
         margin-bottom: 30px;
     }
 
-    .description .btn-register {
+    .description .btn__register {
         padding: 15px 100px;
     }
 
-    .social_list {
+    .social__list {
         justify-content: center;
         padding: 40px 0 100px;
     }
