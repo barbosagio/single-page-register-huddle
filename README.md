@@ -25,7 +25,7 @@ Os usuários devem ser capazes de:
 - Estilização dos elementos com grid e flex.
 
 ### O que eu aprendi
-O maior desafio foi dividir proporcionalmente os elementos através do grid e alinhar os mesmos com o flex. Com a imagem de background e tranformar em 100% da tela de visualização.
+O maior desafio foi dividir proporcionalmente os elementos através do grid e alinhar os mesmos com o flex. Com a imagem de background e transformar em 100% da tela de visualização.
 
 ## Programas utilizados
 - HTML5
